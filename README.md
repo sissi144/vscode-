@@ -9,3 +9,6 @@
 statusbar是指vscode下面的状态栏 可以创建在左边或者右边，可以指定点击状态栏所激活的命令，
 subscriptions其实是创建了一系列的监听，包括命令以及状态修改。
 <img width="788" alt="1" src="https://user-images.githubusercontent.com/39649322/218249085-f8ae6398-13b5-47b9-8f29-ab307035b021.png">
+
+[3. 学习treeview开发 ](https://liiked.github.io/VS-Code-Extension-Doc-ZH/#/extension-guides/tree-view)
+treeview指的是左侧的视图窗口 可以增加新的选项和新的窗口 。
